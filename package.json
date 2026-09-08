@@ -1,0 +1,14 @@
+{
+  "name": "ai-screening-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Recruiter screening portal — React frontend, Python store backend. This file holds no code: it forwards every command to frontend/ and backend/ so you can work from the project root.",
+  "scripts": {
+    "postinstall": "npm --prefix frontend install",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "backend": "python backend/server.py",
+    "test": "npm --prefix frontend test"
+  }
+}

@@ -1,0 +1,7 @@
+# The store service.
+
+# The web framework, and the server that runs it. FastAPI gives the routes,
+# the JSON, the CORS headers and a free API page at /docs; uvicorn is the
+# process that actually listens on the port.
+fastapi>=0.115
+uvicorn>=0.34
