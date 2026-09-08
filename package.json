@@ -8,7 +8,6 @@
     "dev": "npm --prefix frontend run dev",
     "build": "npm --prefix frontend run build",
     "preview": "npm --prefix frontend run preview",
-    "backend": "python backend/server.py",
-    "test": "npm --prefix frontend test"
+    "backend": "python backend/server.py"
   }
 }

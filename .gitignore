@@ -11,3 +11,8 @@ __pycache__
 # the database — this is the recruiter's data, not the project's. Back the
 # folder up; do not commit it.
 backend/data
+
+# --- local only ---
+# the learning guide: written for this machine, deliberately not published
+GUIDE.md
+docs/local/

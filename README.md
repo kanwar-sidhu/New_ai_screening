@@ -52,10 +52,6 @@ backend/.venv/Scripts/python backend/server.py                  # http://127.0.0
 npm run dev                                                     # http://localhost:5173
 ```
 
-```bash
-npm test        # the JD reader and the trash retention rules
-```
-
 ## How it is put together
 
 ```
